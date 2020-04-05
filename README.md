@@ -1,1 +1,1 @@
-A course made from a pasja-informartyka channel in youtube.
+A course made from a zacznij-programowac channel in youtube.
